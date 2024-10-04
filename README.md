@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Gabriel Ferreira, desenvolvedor apaixonado por programação!
-![snake gif](https://github.com/gabrielferreira-dev/gabrielferreira-dev/blob/output/github-contribution-grid-snake.gif)
+
 Atualmente trabalhando com desenvolvimento de ferramentas para automação de tarefas com Python e VBA na Vivo.
 
 <div style="display: inline_block"><br>
@@ -20,3 +20,5 @@ Atualmente trabalhando com desenvolvimento de ferramentas para automação de ta
   <a href="www.linkedin.com/in/gabriel-ferreira-985618231" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/ferreira_gabes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
+![snake gif](https://github.com/gabrielferreira-dev/gabrielferreira-dev/blob/output/github-contribution-grid-snake.gif)
