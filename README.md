@@ -50,7 +50,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/gabrielferreira-dev/gabrielferreira-dev/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/gabrielferreira-dev/gabrielferreira-dev/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
