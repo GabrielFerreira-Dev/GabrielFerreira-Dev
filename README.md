@@ -21,4 +21,4 @@ Atualmente trabalhando com desenvolvimento de ferramentas para automação de ta
   <a href="https://instagram.com/ferreira_gabes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-![snake gif](https://github.com/gabrielferreira-dev/gabrielferreira-dev/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/gabrielferreira-dev/gabrielferreira-dev/blob/output/github-contribution-grid-snake.svg)
