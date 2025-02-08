@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Atualmente trabalhando com desenvolvimento de ferramentas para automação de tarefas com Python e VBA na Vivo.<br>- 7º período de Ciência da Computação<br>- Apaixonado por programação</p>
+<p align="left">- Atualmente trabalhando com desenvolvimento de ferramentas para automação de tarefas com Python e VBA na Vivo.<br>- 8º período de Ciência da Computação<br>- Apaixonado por programação</p>
 
 ###
 
